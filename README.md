@@ -5,7 +5,8 @@ Bu repo [kodluyoruz](www.kodluyoruz.com) Fron-End Eğitiminde oluşturduğumuz i
 
 ##Installation
 Öncelikle projeyi clonelayın.(Burayı sizin reponuzdan aldığınız link gelecek)
-`git clone https://github.com/Tuaghmohammad/kodluyoruzilkrepo.git
+
+`git clone https://github.com/Tuaghmohammad/kodluyoruzilkrepo.git`
 
 ##Usage
 Projeyi cloneladıktan sonra Visual Studio Code Programında açınız.
